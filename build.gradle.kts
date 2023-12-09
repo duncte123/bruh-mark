@@ -22,7 +22,7 @@ kotlin {
 }
 
 application {
-    mainClass.set("MainKt")
+    mainClass.set("me.duncte123.bruhmark.BruhMarkKt")
 }
 
 tasks.withType<Wrapper> {

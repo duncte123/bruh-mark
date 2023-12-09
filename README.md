@@ -4,7 +4,7 @@
 # Bruh Mark
 My solution for day 5 part 2 of Advent of Code 2023 was so hard on the CPU that I decided to turn it into a weird benchmark.
 
-My own score: DNF
+My own score: (haven't had the patience to run it for that long)
 
 ## Running the application
 To run this application you will need to install java 21 or newer, you can download [openjdk here][openjdk]. I built this application with Azul's jdk so that one is validated to work.
